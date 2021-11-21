@@ -16,7 +16,7 @@
 
 ![detect](https://i.loli.net/2021/11/21/RMZA4VTgCrcLDho.png)
 
-![run](C:\Users\Compu\Desktop\run.png)
+![run.png](https://i.loli.net/2021/11/21/aEmSjDJvfOdwzkp.png)
 
 程序运行图
 
